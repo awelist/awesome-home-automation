@@ -1,4 +1,4 @@
-# Awesome Home Automation [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Home Automation [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -73,9 +73,9 @@ Home automation integrates technology into residential environments to automate 
 
 ## Related Awesome Lists
 
-- **[Awesome IoT](https://github.com/awesomelistsio/awesome-iot)** – Internet of Things resources.
-- **[Awesome Edge Computing](https://github.com/awesomelistsio/awesome-edge-computing)** – Resources for edge computing technologies.
-- **[Awesome Privacy](https://github.com/awesomelistsio/awesome-privacy)** – Tools and resources for protecting privacy online and offline.
+- **[Awesome IoT](https://github.com/brandonhimpfen/awesome-iot)** – Internet of Things resources.
+- **[Awesome Edge Computing](https://github.com/brandonhimpfen/awesome-edge-computing)** – Resources for edge computing technologies.
+- **[Awesome Privacy](https://github.com/brandonhimpfen/awesome-privacy)** – Tools and resources for protecting privacy online and offline.
   
 ## Contribute
 
