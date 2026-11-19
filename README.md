@@ -57,6 +57,7 @@ Home automation integrates technology into residential environments to automate 
 
 ## Security & Privacy
 
+- [iotaudit](https://github.com/emirmrkaljevic/iotaudit) – Local CLI that watches what your smart home devices do on the network and grades each one A to F, with an offline HTML report.
 - [Open Source Privacy Guide](https://privacytools.io/) – Tools and guides for privacy-conscious users.
 - [VPN for Smart Homes](https://www.cloudflare.com/products/cloudflare-one/) – Securing home automation networks via VPN.
 
